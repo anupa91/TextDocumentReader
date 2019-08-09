@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">TextDocReader</string>
+    <!--MainActivity hints and texts-->
+    <string name="activity_main_tv_title_hint">Text Document reader Application</string>
+    <string name="activity_main_btn_download_file_hint">Download file</string>
+    <string name="activity_main_btn_read_write_hint">Read and Write</string>
+    <!--End of MainActivity hints and texts-->
+</resources>
